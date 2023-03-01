@@ -12,7 +12,7 @@ const styles = {
     background-color: red;
   `,
   box: css`
-    background-color: pink;
+    background-color: blue;
   `,
 };
 
